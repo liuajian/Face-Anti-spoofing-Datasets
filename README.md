@@ -1,30 +1,24 @@
 ## Face-Anti-spoofing-Datasets
 ## CASIA-SURF
-- Challenge: [Baidu Cloud](https://pan.baidu.com/s/1MyX36GUtjkjdXCcx1jta0w) Code: 26is
-             [Google Drive](https://pan.baidu.com/s/1MyX36GUtjkjdXCcx1jta0w)
-- Paper:     [Baidu Cloud](https://pan.baidu.com/s/1vDThAIs6APdc1AI2Hn6rNA) Code: 3pj8  
-             [Google Drive](https://pan.baidu.com/s/1MyX36GUtjkjdXCcx1jta0w)
-
+- Challenge: [Baidu Cloud(Code: 26is)](https://pan.baidu.com/s/1MyX36GUtjkjdXCcx1jta0w) [Google Drive](https://pan.baidu.com/s/1MyX36GUtjkjdXCcx1jta0w) 
+- Paper:     [Baidu Cloud(Code: 3pj8)](https://pan.baidu.com/s/1vDThAIs6APdc1AI2Hn6rNA) [Google Drive](https://pan.baidu.com/s/1MyX36GUtjkjdXCcx1jta0w)
+            
 ## CASIA-CeFA
-- Challenge: [Baidu Cloud](https://pan.baidu.com/s/1zGMoBpI4yHzNcpJbKdkOsw) Code: kd93
-- Paper:     [Baidu Cloud](https://pan.baidu.com/s/1CpvJ5WFqcnNZfWBKZsBuAw) Code: unev 
+- Challenge: [Baidu Cloud(Code: kd93)](https://pan.baidu.com/s/1zGMoBpI4yHzNcpJbKdkOsw)
+- Paper:     [Baidu Cloud(Code: unev )](https://pan.baidu.com/s/1CpvJ5WFqcnNZfWBKZsBuAw)
 
 ## Citation
   ```Shell
 Please cite the following papers in your publications if it helps your research:
-    @article{zheng2016discriminatively,
-      title={A Discriminatively Learned CNN Embedding for Person Re-identification},
-      author={Zheng, Zhedong and Zheng, Liang and Yang, Yi},
-      journal={TOMM},
-      year={2017}
-    }
-    @inproceedings{wen2016discriminative,
-      title={A Discriminative Feature Learning Approach for Deep Face Recognition},
-      author={Wen, Yandong and Zhang, Kaipeng and Li, Zhifeng and Qiao, Yu},
-      booktitle={European Conference on Computer Vision},
-      pages={499--515},
-      year={2016},
-      organization={Springer}
+    @article{zhang2020casia,
+      title={Casia-surf: A large-scale multi-modal benchmark for face anti-spoofing},
+      author={Zhang, Shifeng and Liu, Ajian and Wan, Jun and Liang, Yanyan and Guo, Guodong and Escalera, Sergio and Escalante, Hugo Jair and Li, Stan Z},
+      journal={IEEE Transactions on Biometrics, Behavior, and Identity Science},
+      volume={2},
+      number={2},
+      pages={182--193},
+      year={2020},
+      publisher={IEEE}
     }
   ```
 ## Questions
