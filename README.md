@@ -1,11 +1,13 @@
 ## Face-Anti-spoofing-Datasets
 ## CASIA-SURF
-- [Challenge](https://pan.baidu.com/s/1MyX36GUtjkjdXCcx1jta0w) Code: 26is
- 
-- [market1501](http://www.liangzheng.org/Project/project_reid.html)(for pre-training, Imagenet dataset is used in this paper)
+- Challenge: [Baidu Cloud](https://pan.baidu.com/s/1MyX36GUtjkjdXCcx1jta0w) Code: 26is
+             [Google Drive](https://pan.baidu.com/s/1MyX36GUtjkjdXCcx1jta0w)
+- Paper:     [Baidu Cloud](https://pan.baidu.com/s/1vDThAIs6APdc1AI2Hn6rNA) Code: 3pj8  
+             [Google Drive](https://pan.baidu.com/s/1MyX36GUtjkjdXCcx1jta0w)
 
 ## CASIA-CeFA
-- [resnet50](https://github.com/KaimingHe/deep-residual-networks)
+- Challenge: [Baidu Cloud](https://pan.baidu.com/s/1zGMoBpI4yHzNcpJbKdkOsw) Code: kd93
+- Paper:     [Baidu Cloud](https://pan.baidu.com/s/1CpvJ5WFqcnNZfWBKZsBuAw) Code: unev 
 
 ## Citation
   ```Shell
