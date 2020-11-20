@@ -1,6 +1,6 @@
 ## Face-Anti-spoofing-Datasets
 ## CASIA-SURF
-- [Challenge](Link: https://pan.baidu.com/s/1MyX36GUtjkjdXCcx1jta0w Code: 26is) 
+- [Challenge](https://pan.baidu.com/s/1MyX36GUtjkjdXCcx1jta0w) Code: 26is
  
 - [market1501](http://www.liangzheng.org/Project/project_reid.html)(for pre-training, Imagenet dataset is used in this paper)
 
