@@ -26,9 +26,10 @@ Please cite the following papers in your publications if it helps your research:
 [1] Shifeng Zhang, Xiaobo Wang, Ajian Liu, Chenxu Zhao, Jun Wan*, Sergio Escalera, Hailin Shi, Zezheng Wang, Stan Z. Li, " A Dataset and Benchmark for Large-scale Multi-modal Face Anti-spoofing ", CVPR, 2019. (conference version of the CASIA-SURF dataset)
 [2] Shifeng Zhang, Ajian Liu, Jun Wan*, Yanyan Liang, Guodong Guo, Sergio Escalera, Hugo Jair Escalante and Stan Z. Li, "CASIA-SURF: A Large-scale Multi-modal Benchmark for Face Anti-spoofing", IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM), 2020. (Journal version of the CASIA-SURF dataset)
 [3] Ajian Liu, Jun Wan*, Sergio Escalera, Hugo Jair Escalante, Zichang Tan, Qi Yuan, Kai Wang, Chi Lin, Guodong Guo, Isabelle Guyon, Stan Z. Li, "Multi-modal Face Anti-spooﬁng Attack Detection Challenge at CVPR2019", CVPR workshop, 2019. (Results of face anti-spoofing Challenges based on CASIA-SURF at CVPR2019)
-[4] Jun Wan, Guodong Guo, Sergio Escalera, Hugo Jair Escalante, Stan Z. Li (Editors), Multi-Modal Face Presentation Attack Detection, Synthesis Lectures on Computer Vision, Morgan & Claypool Publishers, 2020.
-[5] Ajian Liu, Zichang Tan, Jun Wan, Sergio Escalera, Guodong Guo, Stan Z. Li, "CASIA-SURF CeFA: A Benchmark for Multi-modal Cross-ethnicity Face Anti-spoofing", WACV, 2021. (Release the CASIA-SURF Dataset)
-[6] Ajian Liu, Xuan Li, Jun Wan, Yanyan Liang, Sergio Escalera, Hugo Jair Escalante, Meysam Madadi, Yi Jin, Zhuoyuan Wu, Xiaogang Yu, Zichang Tan, Qi Yuan, Ruikun Yang, Benjia Zhou, Guodong Guo, Stan Z. Li,, "Cross-ethnicity Face Anti-spoofing Recognition Challenge: A Review", IET Biometrics, 2020 (Results of face anti-spoofing Challenges based on CASIA-SURF CeFA at CVPR2019)
+[4] Jun Wan, Guodong Guo, Sergio Escalera, Hugo Jair Escalante, Stan Z. Li* (Editors), Multi-Modal Face Presentation Attack Detection, Synthesis Lectures on Computer Vision, Morgan & Claypool Publishers, 2020.
+[5] Ajian Liu, Zichang Tan, Jun Wan*, Sergio Escalera, Guodong Guo, Stan Z. Li, "CASIA-SURF CeFA: A Benchmark for Multi-modal Cross-ethnicity Face Anti-spoofing", WACV, 2021. (Release the CASIA-SURF CeFA Dataset)
+[6] Ajian Liu, Xuan Li, Jun Wan*, Yanyan Liang, Sergio Escalera, Hugo Jair Escalante, Meysam Madadi, Yi Jin, Zhuoyuan Wu, Xiaogang Yu, Zichang Tan, Qi Yuan, Ruikun Yang, Benjia Zhou, Guodong Guo, Stan Z. Li,, "Cross-ethnicity Face Anti-spoofing Recognition Challenge: A Review", IET Biometrics, 2020 (Results of face anti-spoofing Challenges based on CASIA-SURF CeFA at CVPR2019)
+
 ```
   
 ## Questions
