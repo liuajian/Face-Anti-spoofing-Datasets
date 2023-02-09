@@ -11,13 +11,13 @@ Please cite the following papers in your publications if it helps your research:
 @article{zhang2020casia,
    title={Casia-surf: A large-scale multi-modal benchmark for face anti-spoofing},
    author={Zhang, Shifeng and Liu, Ajian and Wan, Jun and Liang, Yanyan and Guo, Guodong and Escalera, Sergio and Escalante, Hugo Jair and Li, Stan Z},
-            journal={IEEE Transactions on Biometrics, Behavior, and Identity Science},
-            volume={2},
-            number={2},
-            pages={182--193},
-            year={2020},
-            publisher={IEEE}
-            }
+   journal={IEEE Transactions on Biometrics, Behavior, and Identity Science},
+   volume={2},
+   number={2},
+   pages={182--193},
+   year={2020},
+   publisher={IEEE}
+}
             
 @inproceedings{liu2021casia,
   title={Casia-surf cefa: A benchmark for multi-modal cross-ethnicity face anti-spoofing},
