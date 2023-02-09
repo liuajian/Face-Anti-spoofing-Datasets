@@ -1,21 +1,16 @@
 ## Face-Anti-spoofing-Datasets
-- [CASIA-SURF](https://sites.google.com/qq.com/face-anti-spoofing/dataset-download/casia-surfcvpr2019)
-- [CASIA-SURF-CeFA](https://sites.google.com/qq.com/face-anti-spoofing/dataset-download/casia-surf-cefacvpr2020)
+- [CASIA-SURF](https://sites.google.com/view/face-anti-spoofing-challenge/welcome/challengecvpr2019)
+- [CASIA-SURF-CeFA](https://sites.google.com/view/face-anti-spoofing-challenge/welcome/challengecvpr2020)
+- [CASIA-SURF-HiFiMask](https://sites.google.com/view/face-anti-spoofing-challenge/dataset-download/casia-surf-hifimaskiccv2021)
+- [CASIA-SURF-SuHiFiMask](https://sites.google.com/view/face-anti-spoofing-challenge/welcome/challengecvpr2023)
 
 ## Citation
   ```Shell
 Please cite the following papers in your publications if it helps your research:
-            @InProceedings{Zhang_2019_CVPR,
-            author = {Zhang, Shifeng and Wang, Xiaobo and Liu, Ajian and Zhao, Chenxu and Wan, Jun and Escalera, Sergio and Shi, Hailin and Wang, Zezheng and Li, Stan Z.},
-            title = {A Dataset and Benchmark for Large-Scale Multi-Modal Face Anti-Spoofing},
-            booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-            month = {June},
-            year = {2019}
-            }
-            
-            @article{zhang2020casia,
-            title={Casia-surf: A large-scale multi-modal benchmark for face anti-spoofing},
-            author={Zhang, Shifeng and Liu, Ajian and Wan, Jun and Liang, Yanyan and Guo, Guodong and Escalera, Sergio and Escalante, Hugo Jair and Li, Stan Z},
+ 
+@article{zhang2020casia,
+   title={Casia-surf: A large-scale multi-modal benchmark for face anti-spoofing},
+   author={Zhang, Shifeng and Liu, Ajian and Wan, Jun and Liang, Yanyan and Guo, Guodong and Escalera, Sergio and Escalante, Hugo Jair and Li, Stan Z},
             journal={IEEE Transactions on Biometrics, Behavior, and Identity Science},
             volume={2},
             number={2},
@@ -23,12 +18,24 @@ Please cite the following papers in your publications if it helps your research:
             year={2020},
             publisher={IEEE}
             }
-[1] Shifeng Zhang, Xiaobo Wang, Ajian Liu, Chenxu Zhao, Jun Wan*, Sergio Escalera, Hailin Shi, Zezheng Wang, Stan Z. Li, " A Dataset and Benchmark for Large-scale Multi-modal Face Anti-spoofing ", CVPR, 2019. (conference version of the CASIA-SURF dataset)
-[2] Shifeng Zhang, Ajian Liu, Jun Wan*, Yanyan Liang, Guodong Guo, Sergio Escalera, Hugo Jair Escalante and Stan Z. Li, "CASIA-SURF: A Large-scale Multi-modal Benchmark for Face Anti-spoofing", IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM), 2020. (Journal version of the CASIA-SURF dataset)
-[3] Ajian Liu, Jun Wan*, Sergio Escalera, Hugo Jair Escalante, Zichang Tan, Qi Yuan, Kai Wang, Chi Lin, Guodong Guo, Isabelle Guyon, Stan Z. Li, "Multi-modal Face Anti-spooﬁng Attack Detection Challenge at CVPR2019", CVPR workshop, 2019. (Results of face anti-spoofing Challenges based on CASIA-SURF at CVPR2019)
-[4] Jun Wan, Guodong Guo, Sergio Escalera, Hugo Jair Escalante, Stan Z. Li* (Editors), Multi-Modal Face Presentation Attack Detection, Synthesis Lectures on Computer Vision, Morgan & Claypool Publishers, 2020.
-[5] Ajian Liu, Zichang Tan, Jun Wan*, Sergio Escalera, Guodong Guo, Stan Z. Li, "CASIA-SURF CeFA: A Benchmark for Multi-modal Cross-ethnicity Face Anti-spoofing", WACV, 2021. (Release the CASIA-SURF CeFA Dataset)
-[6] Ajian Liu, Xuan Li, Jun Wan*, Yanyan Liang, Sergio Escalera, Hugo Jair Escalante, Meysam Madadi, Yi Jin, Zhuoyuan Wu, Xiaogang Yu, Zichang Tan, Qi Yuan, Ruikun Yang, Benjia Zhou, Guodong Guo, Stan Z. Li,, "Cross-ethnicity Face Anti-spoofing Recognition Challenge: A Review", IET Biometrics, 2020 (Results of face anti-spoofing Challenges based on CASIA-SURF CeFA at CVPR2019)
+            
+@inproceedings{liu2021casia,
+  title={Casia-surf cefa: A benchmark for multi-modal cross-ethnicity face anti-spoofing},
+  author={Liu, Ajian and Tan, Zichang and Wan, Jun and Escalera, Sergio and Guo, Guodong and Li, Stan Z},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={1179--1187},
+  year={2021}
+}
+
+@article{liu2022contrastive,
+  title={Contrastive context-aware learning for 3d high-fidelity mask face presentation attack detection},
+  author={Liu, Ajian and Zhao, Chenxu and Yu, Zitong and Wan, Jun and Su, Anyang and Liu, Xing and Tan, Zichang and Escalera, Sergio and Xing, Junliang   and Liang, Yanyan and others},
+  journal={IEEE Transactions on Information Forensics and Security},
+  volume={17},
+  pages={2497--2507},
+  year={2022},
+  publisher={IEEE}
+}
 
 ```
   
